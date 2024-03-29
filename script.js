@@ -48,8 +48,8 @@ ScrollReveal().reveal(' .home-content p, .about-content', { orgin: 'right' });
 
 const typed = new Typed('.multiple-text', {
     strings: ['Frontend Developer in progress','Friend to many','Student at HCHS','A Person planning to make the impossible possible!'],
-    typeSpeed:100,
-    backSpeed:100,
+    typeSpeed:125,
+    backSpeed:135,
     backDelay:1000,
     loop: true
 });
