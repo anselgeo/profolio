@@ -79,4 +79,42 @@ If you encounter any issues or have questions regarding the interactive portfoli
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is not licensed. Feel free to use, modify, and distribute the code as per the terms of the license.
+
+
+
+
+
+
+
+Code was put together from different sources, be it may known that there is copy and paste code that I put in using different sources such as , ofc it is all edited to liking, however be advised when editing!
+
+Software: VSCODE  _(Visual-Studio)_
+
+Sources:
+
+Yt:
+https://www.youtube.com/@codehal
+https://www.youtube.com/watch?v=5YDVJaItmaY&pp=ygUOd2ViIGRldmxvcG1lbnQ%3D
+https://www.youtube.com/watch?v=L0Pk3OVbxRU&pp=ygUOd2ViIGRldmxvcG1lbnQ%3D
+https://www.youtube.com/watch?v=Ak4Hm14-qeA&pp=ygUQaHRtbCBpbnRlcmFjdGl2ZQ%3D%3D
+https://www.youtube.com/watch?v=1wfeqDyMUx4&pp=ygUQaHRtbCBpbnRlcmFjdGl2ZQ%3D%3D
+https://www.youtube.com/watch?v=oYRda7UtuhA&pp=ygUQaHRtbCBpbnRlcmFjdGl2ZQ%3D%3D
+
+_ChatGPT_
+
+
+Other Tutorials used:
+https://www.w3schools.com/howto/howto_css_download_button.asp
+https://stackoverflow.com/questions/2793751/how-can-i-create-download-link-in-html
+https://www.w3schools.com/howto/howto_js_read_more.asp
+https://foolishdeveloper.com/create-a-read-more-read-less-button-using-html-css/
+
+
+
+Thank you to all who view this or use it, I personally liked making this project and is my very first ACTUAL web proj :)
+
+
+
+
+
