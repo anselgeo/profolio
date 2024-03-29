@@ -151,20 +151,22 @@
    </section>
 
    <section class="contact" id="contact">
+    <link rel="stylesheet" href="formcarry-form.css" />
     <h2 class="heading">Contact <span>Me!</span></h2>
+<div class="formcarry-container">
+    <form action="form-process.php" method="POST" class="formcarry-form">
+        <label for="name">Your Name</label>
+        <input type="text" id="name" name="fullName" required />
 
-    <form action="#">
-        <div class="input-box">
-            <input type="text" placeholder="Full Name">
-            <input type="email" placeholder="Email Adress">
-        </div> 
-        <div class="input-box">
-            <input type="number" placeholder="Phone Number">
-            <input type="text" placeholder="Email Subject">
-        </div>
-        <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
-        <input type="submit" value="Send Message" class="btn">
-    </form>
+        <label for="email">Your Email Address</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="message">Your Message</label>
+        <textarea name="message" id="message" cols="30" rows="10"></textarea>
+
+        <button type="submit">Send</button>
+      </form>
+    </div>
    </section>
 
    <footer class="footer">
@@ -187,3 +189,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+
