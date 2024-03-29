@@ -1,5 +1,11 @@
 # My-Portfolio-Resume
 Bazinga
+
+
+
+IMPORTANT: THIS PROJECT IS IN NO WAY COMPLETED, THERE IS PLENTY OF WORK TO FINISH ON IT!
+
+
 ## Interactive Portfolio Website
 
 ### Overview
